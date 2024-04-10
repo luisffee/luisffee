@@ -12,11 +12,16 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning Robotics and Vision Computer
-- 💬 Ask me about Python
+- 📆 23 years old
+- 📚 Studying Information Systems at FURG
+- 🔭 I’m currently working at:
+as team member of FURGbot;
+as Assistant Researcher from iTec/Embrapii in project Smart Robot;
+and on side projects.
+- 🌱 I’m currently learning Robotics, Computer Vision and DB modelling
+- 💬 Ask me about Python and CV
 - 📫 How to reach me: Contact part
-- ⚡ Fun fact: I like playing Grand Strategy Games
+- ⚡ Fun fact: I like playing Grand Strategy Games and RPGs
 
 <br>
 
@@ -41,6 +46,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" alt="REACT" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="REACT" />
+
+- **Databases**:
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="POSTGRESQL" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="REDIS" />
           
 
 <!--- **Cloud Hosting**:
