@@ -18,7 +18,7 @@
 as team member of FURGbot;
 as Assistant Researcher from iTec/Embrapii in project Smart Robot;
 and on side projects.
-- 🌱 I’m currently learning Robotics, Computer Vision and DB modelling
+- 🌱 I’m currently learning Robotics, Computer Vision, Speech Recognition and LLMs
 - 💬 Ask me about Python and CV
 - 📫 How to reach me: Contact part
 - ⚡ Fun fact: I like playing Grand Strategy Games and RPGs
